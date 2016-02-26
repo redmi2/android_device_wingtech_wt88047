@@ -40,3 +40,7 @@ ro.fusion.magfield.max=250
 
 # Factory Reset Protection
 ro.frp.pst=/dev/block/bootdevice/by-name/config
+
+#Device Properties
+ro.product.device=wt88047
+ro.product.model=Redmi 2
